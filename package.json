@@ -1,0 +1,29 @@
+{
+  "name": "iphone7slider",
+  "version": "0.1.0",
+  "description": "iPhone 7 Slider App with Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gndx/iSliderApp.git"
+  },
+  "keywords": [
+    "iphone",
+    "app",
+    "slider",
+    "bootstrap"
+  ],
+  "author": "Oscar Barajas / http://barajas.mx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gndx/iSliderApp/issues"
+  },
+  "homepage": "https://github.com/gndx/iSliderApp#readme",
+  "devDependencies": {
+    "nib": "^1.1.2",
+    "stylus": "^0.54.5"
+  }
+}
